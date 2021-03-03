@@ -16,7 +16,10 @@ This repository contains important questions and its solutions (code) of Data St
   9. `Graph`
   10. `Trie (Basics)`
   11. `Segment Trees (Basics)`
-  
+  12. `Singly Linked List`
+  13. `Doubly Linked List`
+  14. `Queue`
+  15. `Vector`
 **Algorithms** covered in this repository:
 
   1. `Mathematical (Basics)` 
@@ -27,6 +30,8 @@ This repository contains important questions and its solutions (code) of Data St
   6. `Recursion`
   7. `Backtracking`
   8. `Dynamic Programming`
+  9. `Kadane's`
+  10. `Huffman`
 
 ### Pull Requests
 
