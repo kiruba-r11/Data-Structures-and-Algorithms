@@ -20,13 +20,14 @@ This repository contains important questions and its solutions (code) of Data St
 **Algorithms** covered in this repository:
 
   1. `Mathematical (Basics)` 
-  2. `Bit Magic`
-  3. `Searching`
-  4. `Sorting`
-  5. `Greedy`
-  6. `Recursion`
-  7. `Backtracking`
-  8. `Dynamic Programming`
+  2. `Two pointer`
+  3. `Bit Magic`
+  4. `Searching`
+  5. `Sorting`
+  6. `Greedy`
+  7. `Recursion`
+  8. `Backtracking`
+  9. `Dynamic Programming`
 
 ### Pull Requests
 
