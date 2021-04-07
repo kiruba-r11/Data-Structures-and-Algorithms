@@ -21,13 +21,14 @@ This repository contains important questions and its solutions (code) of Data St
 
   1. `Mathematical (Basics)` 
   2. `Two pointer`
-  3. `Bit Magic`
-  4. `Searching`
-  5. `Sorting`
-  6. `Greedy`
-  7. `Recursion`
-  8. `Backtracking`
-  9. `Dynamic Programming`
+  3. `Sliding Window`
+  4. `Bit Magic`
+  5. `Searching`
+  6. `Sorting`
+  7. `Greedy`
+  8. `Recursion`
+  9. `Backtracking`
+  10. `Dynamic Programming`
 
 ### Pull Requests
 
