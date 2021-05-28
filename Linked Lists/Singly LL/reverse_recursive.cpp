@@ -43,16 +43,21 @@ sll_node* reverse_recursive(sll_node* head) {
 	if(head == NULL || head->next == NULL)
 		return head;
 
-	sll_node *prev = head , *cur = head;
-	while(cur != NULL && cur->next != NULL) {
-		prev = cur;
-		cur = cur->next;
-	}
+	// O(1)
+	/*
+		// O(n)
+		// sll_node *prev = head , *cur = head;
+		// while(cur != NULL && cur->next != NULL) {
+		// 	prev = cur;
+		// 	cur = cur->next;
+		// }
+	*/
 
-	prev->next = NULL;
-	prev = reverse_recursive(head);
-	cur->next = prev;
-	return cur;
+	sll_node* temp = head->next;
+	head->next = NULL;
+	sll_node* newHead = reverse_recursive(temp);
+	temp->next = head;
+	return newHead;
 }
 
 void display(sll_node* head) {
